@@ -1,7 +1,7 @@
 # QA-Bot-LangChain
 
 ### Overview
-This repository contains a simple yet powerful chatbot developed for Hushh.ai using LangChain, OpenAI, and other libraries. The chatbot is designed to answer user queries, provide insights from an embedded knowledge base, and engage in conversational interactions.
+This repository contains a simple yet powerful chatbot developed for Hushh.ai interview task using LangChain, OpenAI, and other libraries. The chatbot is designed to answer user queries, provide insights from an embedded knowledge base, and engage in conversational interactions.
 
 ### Features
 1. Document Processing: Utilizes LangChain to process PDF documents, extracting relevant information for analysis.
